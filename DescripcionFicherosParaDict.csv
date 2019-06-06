@@ -1,0 +1,340 @@
+CODIGO_FP,DN_FP,CODIGO_AREA,DN_AREA
+ADG,Administración y gestión,ADGA,Administración / gestión 
+ADG,Administración y gestión,ADGC,Consultoría empresarial 
+ADG,Administración y gestión,ADGD,Administración y auditoría 
+ADG,Administración y gestión,ADGE,"Gestión de recursos, consultoría y estudios técnicos "
+ADG,Administración y gestión,ADGF,Finanzas 
+ADG,Administración y gestión,ADGG,Gestión de la información y comunicación 
+ADG,Administración y gestión,ADGI,Información / comunicación 
+ADG,Administración y gestión,ADGN,Finanzas y seguros 
+ADG,Administración y gestión,ADGS,Seguros 
+ADG,Administración y gestión,ADGX,Especialidades sin área definida (administración y oficinas) 
+ADG,Administración y gestión,ADGY,Especialidades sin área definida (seguros y finanzas) 
+ADG,Administración y gestión,ADGZ,Área para centros especializados 
+AFD,Actividades físicas y deportivas,AFDA,Actividades físico deportivas recreativas 
+AFD,Actividades físicas y deportivas,AFDB,Actividades deportivas de bienestar físico 
+AFD,Actividades físicas y deportivas,AFDD,Deporte profesional y de alto rendimiento 
+AFD,Actividades físicas y deportivas,AFDP,Prevención y recuperación 
+AGA,Agraria,AGAA,Agroturismo 
+AGA,Agraria,AGAC,Cultivos extensivos 
+AGA,Agraria,AGAE,Explotación forestal 
+AGA,Agraria,AGAF,Fruticultura 
+AGA,Agraria,AGAG,Ganaderías menores 
+AGA,Agraria,AGAH,Horticultura 
+AGA,Agraria,AGAJ,Jardinería 
+AGA,Agraria,AGAM,Mecanización agraria 
+AGA,Agraria,AGAN,Ganadería 
+AGA,Agraria,AGAO,Ornamentales y jardinería 
+AGA,Agraria,AGAP,Explotación de ganado porcino 
+AGA,Agraria,AGAQ,Explotación de ganado equino 
+AGA,Agraria,AGAR,Forestal 
+AGA,Agraria,AGAT,Tabaco 
+AGA,Agraria,AGAU,Agricultura 
+AGA,Agraria,AGAV,"Explotación de ganado vacuno, ovino y caprino "
+AGA,Agraria,AGAX,Especialidades sin área definida (agraria) 
+ARG,Artes gráficas,ARGA,Actividades y técnicas gráficas artísticas 
+ARG,Artes gráficas,ARGC,Encuadernación industrial 
+ARG,Artes gráficas,ARGD,Diseño 
+ARG,Artes gráficas,ARGE,Editorial 
+ARG,Artes gráficas,ARGG,Diseño gráfico y multimedia 
+ARG,Artes gráficas,ARGI,Impresión 
+ARG,Artes gráficas,ARGM,Post-impresión / manipulados 
+ARG,Artes gráficas,ARGN,Edición 
+ARG,Artes gráficas,ARGP,Pre-impresión 
+ARG,Artes gráficas,ARGS,Post-impresión 
+ARG,Artes gráficas,ARGT,Transformación y conversión en industrias gráficas 
+ARG,Artes gráficas,ARGX,Especialidades sin área definida (industrias gráficas) 
+ART,Artes y artesanías,ARTA,Artesanía tradicional 
+ART,Artes y artesanías,ARTB,Joyería y orfebrería 
+ART,Artes y artesanías,ARTC,Cerámica 
+ART,Artes y artesanías,ARTD,Piedra y mármol 
+ART,Artes y artesanías,ARTE,Metal 
+ART,Artes y artesanías,ARTF,Fibras vegetales 
+ART,Artes y artesanías,ARTG,Fabricación y mantenimiento de instrumentos musicales 
+ART,Artes y artesanías,ARTI,Instrumentos musicales 
+ART,Artes y artesanías,ARTJ,Joyería y bisutería 
+ART,Artes y artesanías,ARTL,Piel y cuero 
+ART,Artes y artesanías,ARTM,Madera 
+ART,Artes y artesanías,ARTN,Vidrio y cerámica artesanal 
+ART,Artes y artesanías,ARTO,Orfebrería 
+ART,Artes y artesanías,ARTP,Papel y cartón 
+ART,Artes y artesanías,ARTQ,Maquetería 
+ART,Artes y artesanías,ARTR,"Recuperación, reparación y mantenimiento artísticos "
+ART,Artes y artesanías,ARTS,Varios 
+ART,Artes y artesanías,ARTT,Textil 
+ART,Artes y artesanías,ARTU,Artes escénicas 
+ART,Artes y artesanías,ARTV,Vidrio 
+ART,Artes y artesanías,ARTX,Especialidades sin área definida (artesanía) 
+COM,Comercio y márketing,COMA,Almacenaje 
+COM,Comercio y márketing,COMC,Atención al cliente 
+COM,Comercio y márketing,COMD,Dirección / gestión 
+COM,Comercio y márketing,COME,Comercio exterior 
+COM,Comercio y márketing,COMF,Facturación / cobro 
+COM,Comercio y márketing,COML,Logística comercial y gestión del transporte 
+COM,Comercio y márketing,COMM,Marketing y relaciones públicas 
+COM,Comercio y márketing,COMP,Publicidad / imagen 
+COM,Comercio y márketing,COMT,Compraventa 
+COM,Comercio y márketing,COMV,Venta 
+COM,Comercio y márketing,COMX,Especialidades sin área definida (comercio) 
+COM,Comercio y márketing,COMZ,Área para centros especializados 
+ELE,Electricidad y electrónica,ELEA,Electricidad 
+ELE,Electricidad y electrónica,ELEC,Electrónica 
+ELE,Electricidad y electrónica,ELEE,Instalaciones eléctricas 
+ELE,Electricidad y electrónica,ELEI,Instalaciones de comunicaciones 
+ELE,Electricidad y electrónica,ELEL,Electricidad 
+ELE,Electricidad y electrónica,ELEM,Máquinas electromecánicas 
+ELE,Electricidad y electrónica,ELEN,Electrónica 
+ELE,Electricidad y electrónica,ELEQ,Equipos electrónicos 
+ELE,Electricidad y electrónica,ELER,Electricidad 
+ELE,Electricidad y electrónica,ELES,Instalaciones de telecomunicación 
+ELE,Electricidad y electrónica,ELET,Electrónica 
+ENA,Energía y agua,ENAA,Agua 
+ENA,Energía y agua,ENAC,Eficiencia energética 
+ENA,Energía y agua,ENAD,Distribución de energía eléctrica 
+ENA,Energía y agua,ENAE,Energías renovables 
+ENA,Energía y agua,ENAF,Transformación de energía eléctrica 
+ENA,Energía y agua,ENAG,Tratamiento y distribución de gas 
+ENA,Energía y agua,ENAL,Energía eléctrica 
+ENA,Energía y agua,ENAP,Producción de energía eléctrica 
+ENA,Energía y agua,ENAS,Gas 
+ENA,Energía y agua,ENAT,"Captación, tratamiento y distribución de agua "
+ENA,Energía y agua,ENAX,"Especialidades sin área definida (producción, transformación y distribución de energía y agua) "
+EOC,Edificación y obra civil,EOCA,Acabados 
+EOC,Edificación y obra civil,EOCB,Albañilería y acabados 
+EOC,Edificación y obra civil,EOCC,Cantería y piedra artificial 
+EOC,Edificación y obra civil,EOCE,Estructuras 
+EOC,Edificación y obra civil,EOCH,Hormigón 
+EOC,Edificación y obra civil,EOCI,Instalaciones y aislamientos 
+EOC,Edificación y obra civil,EOCJ,Colocación y montaje 
+EOC,Edificación y obra civil,EOCL,Albañilería 
+EOC,Edificación y obra civil,EOCM,Maquinaria 
+EOC,Edificación y obra civil,EOCO,Proyectos y seguimiento de obras 
+EOC,Edificación y obra civil,EOCP,Plantas de fabricación 
+EOC,Edificación y obra civil,EOCQ,Maquinaria de construcción 
+EOC,Edificación y obra civil,EOCT,Técnicas auxiliares 
+EOC,Edificación y obra civil,EOCV,Perforaciones y voladuras 
+EOC,Edificación y obra civil,EOCX,Especialidades sin área definida (edificación y obras públicas) 
+FCO,Formación complementaria,FCOA,Aspectos medioambientales 
+FCO,Formación complementaria,FCOC,Colectivos desfavorecidos 
+FCO,Formación complementaria,FCOE,Lenguas extranjeras 
+FCO,Formación complementaria,FCOI,Informática complementaria 
+FCO,Formación complementaria,FCOL,Lenguas y dialectos españoles 
+FCO,Formación complementaria,FCOM,Manipulación alimentaria 
+FCO,Formación complementaria,FCOO,Orientación laboral 
+FCO,Formación complementaria,FCOS,Seguridad y salud laboral 
+FCO,Formación complementaria,FCOV,Competencia clave 
+FME,Fabricación mecánica,FMEA,Construcciones aeronáuticas 
+FME,Fabricación mecánica,FMEB,Abrasivos 
+FME,Fabricación mecánica,FMEC,Construcciones metálicas 
+FME,Fabricación mecánica,FMED,Artículos diversos 
+FME,Fabricación mecánica,FMEE,Fabricación electromecánica 
+FME,Fabricación mecánica,FMEF,Fundición 
+FME,Fabricación mecánica,FMEG,Metalurgia 
+FME,Fabricación mecánica,FMEH,Operaciones mecánicas 
+FME,Fabricación mecánica,FMEI,Artículos diversos de fabricación mecánica 
+FME,Fabricación mecánica,FMEJ,Juguetes 
+FME,Fabricación mecánica,FMEL,Construcciones metálicas 
+FME,Fabricación mecánica,FMEM,Producción mecánica 
+FME,Fabricación mecánica,FMES,Construcciones metálicas y soldadura 
+FME,Fabricación mecánica,FMEV,Especialidades sin área definida (industrias de fabricación de equipos electromecánicos) 
+FME,Fabricación mecánica,FMEW,Área para centros especializados 
+FME,Fabricación mecánica,FMEX,Especialidades sin área definida (industria pesada y construcciones metálicas) 
+FME,Fabricación mecánica,FMEY,Especialidades sin área definida (industrias manufactureras diversas) 
+FME,Fabricación mecánica,FMEZ,Área para centros especializados 
+HOT,Hostelería y turismo,HOTA,Alojamiento 
+HOT,Hostelería y turismo,HOTF,Ferias y congresos 
+HOT,Hostelería y turismo,HOTG,Agencias de viaje 
+HOT,Hostelería y turismo,HOTI,"Información, promoción y desarrollo turístico "
+HOT,Hostelería y turismo,HOTJ,Juegos de azar 
+HOT,Hostelería y turismo,HOTN,Animación 
+HOT,Hostelería y turismo,HOTR,Restauración 
+HOT,Hostelería y turismo,HOTT,Turismo 
+HOT,Hostelería y turismo,HOTU,Agroturismo 
+HOT,Hostelería y turismo,HOTX,Especialidades sin área definida (turismo y hostelería) 
+IEX,Industrias extractivas,IEXD,Piedra natural 
+IEX,Industrias extractivas,IEXE,Extracción de minerales 
+IEX,Industrias extractivas,IEXH,Primera transformación del hierro y del carbón 
+IEX,Industrias extractivas,IEXM,Minería 
+IEX,Industrias extractivas,IEXP,Primera transformación de minerales no férreos 
+IEX,Industrias extractivas,IEXT,Tratamiento de minerales 
+IEX,Industrias extractivas,IEXX,Especialidades sin área definida (minería y primeras transformaciones) 
+IEX,Industrias extractivas,IEXZ,Área especial para centros especializados 
+IFC,Informática y comunicaciones,IFCC,Sistemas de comunicación 
+IFC,Informática y comunicaciones,IFCD,Desarrollo 
+IFC,Informática y comunicaciones,IFCI,Informática 
+IFC,Informática y comunicaciones,IFCM,Comunicaciones 
+IFC,Informática y comunicaciones,IFCP,Desarrollo de proyectos software 
+IFC,Informática y comunicaciones,IFCS,Servicios de telecomunicaciones 
+IFC,Informática y comunicaciones,IFCT,Sistemas y telemática 
+IFC,Informática y comunicaciones,IFCX,Especialidades sin área definida (servicios a las empresas) 
+IMA,Instalación y mantenimiento,IMAC,Frío y climatización 
+IMA,Instalación y mantenimiento,IMAF,Frío y climatización 
+IMA,Instalación y mantenimiento,IMAI,Montaje y mantenimiento de instalaciones 
+IMA,Instalación y mantenimiento,IMAL,Mecánica de fluidos 
+IMA,Instalación y mantenimiento,IMAM,Mecánica 
+IMA,Instalación y mantenimiento,IMAN,Mecánica 
+IMA,Instalación y mantenimiento,IMAQ,Maquinaria y equipo industrial 
+IMA,Instalación y mantenimiento,IMAR,Frío y climatización 
+IMA,Instalación y mantenimiento,IMAT,Organización del mantenimiento 
+IMA,Instalación y mantenimiento,IMAX,Especialidades sin área definida (mantenimiento y reparación) 
+IMA,Instalación y mantenimiento,IMAY,Especialidades sin área definida (montaje e instalación) 
+IMP,Imagen personal,IMPE,Estética 
+IMP,Imagen personal,IMPP,Peluquería y tratamientos de belleza 
+IMP,Imagen personal,IMPQ,Peluquería 
+IMS,Imagen y sonido,IMSA,Ambientación 
+IMS,Imagen y sonido,IMSD,"Dirección, realización "
+IMS,Imagen y sonido,IMSE,Espectáculos en vivo 
+IMS,Imagen y sonido,IMSF,Información 
+IMS,Imagen y sonido,IMSG,Imagen y fotografía 
+IMS,Imagen y sonido,IMSI,Imagen y sonido 
+IMS,Imagen y sonido,IMSM,Multimedia 
+IMS,Imagen y sonido,IMSN,Animación 
+IMS,Imagen y sonido,IMSP,Producción 
+IMS,Imagen y sonido,IMSR,Postproducción 
+IMS,Imagen y sonido,IMSS,Sonido y sonorización 
+IMS,Imagen y sonido,IMST,Producciones fotográficas 
+IMS,Imagen y sonido,IMSV,Producción audiovisual 
+IMS,Imagen y sonido,IMSX,Especialidades sin área definida (información y manifestaciones artísticas) 
+INA,Industrias alimentarias,INAA,Industrias de alimentación diversa 
+INA,Industrias alimentarias,INAB,Industrias de bebidas 
+INA,Industrias alimentarias,INAC,Industrias cárnicas 
+INA,Industrias alimentarias,INAD,Alimentos diversos 
+INA,Industrias alimentarias,INAE,Lácteos 
+INA,Industrias alimentarias,INAF,"Panadería, pastelería, confitería y molinería "
+INA,Industrias alimentarias,INAG,Industrias de aceites y grasas 
+INA,Industrias alimentarias,INAH,Bebidas 
+INA,Industrias alimentarias,INAI,Cárnicas 
+INA,Industrias alimentarias,INAJ,Productos de la pesca 
+INA,Industrias alimentarias,INAK,Aceites y grasas 
+INA,Industrias alimentarias,INAL,Industrias lácteas 
+INA,Industrias alimentarias,INAM,Industrias de molinería y piensos compuestos 
+INA,Industrias alimentarias,INAN,Ocupaciones comunes a todas las áreas de industrias alimentarias 
+INA,Industrias alimentarias,INAO,"Industrias del cacao, chocolate y confitería "
+INA,Industrias alimentarias,INAP,"Industrias de panadería, bollería, pastelería y galletas "
+INA,Industrias alimentarias,INAQ,Actividades auxiliares en la industria alimentaria 
+INA,Industrias alimentarias,INAR,Industrias de precocinados y cocinados 
+INA,Industrias alimentarias,INAS,Industrias de conservas 
+INA,Industrias alimentarias,INAT,Industrias del tabaco 
+INA,Industrias alimentarias,INAU,Industrias de azúcar 
+INA,Industrias alimentarias,INAV,Conservas vegetales 
+INA,Industrias alimentarias,INAX,Especialidades sin área definida (industrias alimentarias) 
+MAM,"Madera, mueble y corcho",MAMA,Transformación madera y corcho 
+MAM,"Madera, mueble y corcho",MAMB,Instalación y amueblamiento 
+MAM,"Madera, mueble y corcho",MAMC,Transformación del corcho 
+MAM,"Madera, mueble y corcho",MAMD,Producción carpintería y mueble 
+MAM,"Madera, mueble y corcho",MAMM,Fabricación industrial de carpintería y mueble 
+MAM,"Madera, mueble y corcho",MAMP,Primera transformación de la madera y el corcho 
+MAM,"Madera, mueble y corcho",MAMR,Carpintería y mueble 
+MAM,"Madera, mueble y corcho",MAMS,Fabricación semiindustrializada de carpintería y mueble 
+MAM,"Madera, mueble y corcho",MAMT,Primera transformación de la madera 
+MAM,"Madera, mueble y corcho",MAMX,Especialidades sin área definida (industrias de la madera y el corcho) 
+MAP,Marítimo pesquera,MAPA,Cultivo de algas 
+MAP,Marítimo pesquera,MAPB,Buceo 
+MAP,Marítimo pesquera,MAPC,Cultivo de crustáceos 
+MAP,Marítimo pesquera,MAPF,Cultivo de fitoplancton y zooplancton 
+MAP,Marítimo pesquera,MAPL,Pesca en aguas con límites 
+MAP,Marítimo pesquera,MAPM,Cultivo de moluscos 
+MAP,Marítimo pesquera,MAPN,Pesca y navegación 
+MAP,Marítimo pesquera,MAPP,Piscicultura 
+MAP,Marítimo pesquera,MAPS,Pesca en aguas sin límites 
+MAP,Marítimo pesquera,MAPU,Acuicultura 
+MAP,Marítimo pesquera,MAPX,Especialidades sin área definida (pesca y acuicultura) 
+QUI,Química,QUIA,Análisis y control 
+QUI,Química,QUIB,Química básica 
+QUI,Química,QUIC,Transformación de plástico y caucho 
+QUI,Química,QUIE,Proceso químico 
+QUI,Química,QUIF,Fabricación y transformación de productos químicos 
+QUI,Química,QUIL,Laboratorio químico 
+QUI,Química,QUIM,Farmaquímica 
+QUI,Química,QUIO,"Pasta, papel y cartón "
+QUI,Química,QUIP,Industria papelera 
+QUI,Química,QUIQ,Química fina 
+QUI,Química,QUIT,Transformación de polímeros 
+QUI,Química,QUIX,Especialidades sin área definida (industrias químicas) 
+QUI,Química,QUIZ,Área para centros especializados 
+SAN,Sanidad,SANA,Anatomía patológica 
+SAN,Sanidad,SANB,Salud buco-dental 
+SAN,Sanidad,SANC,Cuidados auxiliares 
+SAN,Sanidad,SAND,Dietética 
+SAN,Sanidad,SANF,Farmacia 
+SAN,Sanidad,SANL,Técnicas de laboratorio 
+SAN,Sanidad,SANP,Servicios y productos sanitarios 
+SAN,Sanidad,SANR,Técnicas radiológicas 
+SAN,Sanidad,SANS,Soporte y ayuda al diagnóstico 
+SAN,Sanidad,SANT,Atención sanitaria 
+SAN,Sanidad,SANX,Especialidades sin área definida (sanidad) 
+SEA,Seguridad y medio ambiente,SEAA,Control de calidad ambiental 
+SEA,Seguridad y medio ambiente,SEAB,Riesgos laborales 
+SEA,Seguridad y medio ambiente,SEAC,Conservación de la flora y fauna 
+SEA,Seguridad y medio ambiente,SEAD,Seguridad y prevención 
+SEA,Seguridad y medio ambiente,SEAE,Educación ambiental 
+SEA,Seguridad y medio ambiente,SEAF,Recursos forestales 
+SEA,Seguridad y medio ambiente,SEAG,Gestión ambiental 
+SEA,Seguridad y medio ambiente,SEAI,"Vigilancia, inspección y control "
+SEA,Seguridad y medio ambiente,SEAL,Protección civil 
+SEA,Seguridad y medio ambiente,SEAP,Control de plagas 
+SEA,Seguridad y medio ambiente,SEAR,Restauración ambiental 
+SEA,Seguridad y medio ambiente,SEAS,Control y seguridad 
+SEA,Seguridad y medio ambiente,SEAT,"Recogida, evacuación y tratamiento de aguas residuales "
+SEA,Seguridad y medio ambiente,SEAU,"Limpieza, tratamiento y eliminación de residuos urbanos "
+SSC,Servicios socioculturales y a la comunidad,SSCA,Actividades asociativas 
+SSC,Servicios socioculturales y a la comunidad,SSCB,Actividades culturales y recreativas 
+SSC,Servicios socioculturales y a la comunidad,SSCC,Actividades culturales 
+SSC,Servicios socioculturales y a la comunidad,SSCD,Servicio doméstico 
+SSC,Servicios socioculturales y a la comunidad,SSCE,Formación y educación 
+SSC,Servicios socioculturales y a la comunidad,SSCF,Formación 
+SSC,Servicios socioculturales y a la comunidad,SSCG,Atención social 
+SSC,Servicios socioculturales y a la comunidad,SSCI,Servicios al consumidor 
+SSC,Servicios socioculturales y a la comunidad,SSCJ,"Jardines, bosques, parques y zoológicos "
+SSC,Servicios socioculturales y a la comunidad,SSCL,Limpieza 
+SSC,Servicios socioculturales y a la comunidad,SSCM,Asistencia social y servicios al consumidor 
+SSC,Servicios socioculturales y a la comunidad,SSCP,Pompas fúnebres y actividades afines 
+SSC,Servicios socioculturales y a la comunidad,SSCR,Actividades recreativas 
+SSC,Servicios socioculturales y a la comunidad,SSCS,Asistencia social 
+SSC,Servicios socioculturales y a la comunidad,SSCT,"Lavado, limpieza y teñido de piel y tela "
+SSC,Servicios socioculturales y a la comunidad,SSCW,Área para curso especial 
+SSC,Servicios socioculturales y a la comunidad,SSCX,Especialidades sin área definida (docencia e investigación) 
+SSC,Servicios socioculturales y a la comunidad,SSCY,Especialidades sin área definida (servicios a la comunidad y personales) 
+SSC,Servicios socioculturales y a la comunidad,SSCZ,Área para centros especializados 
+TCP,"Textil, confección y piel",TCPA,Confección ante-napa y peletería 
+TCP,"Textil, confección y piel",TCPC,Calzado 
+TCP,"Textil, confección y piel",TCPE,Ennoblecimiento textil 
+TCP,"Textil, confección y piel",TCPF,Confección en textil y piel 
+TCP,"Textil, confección y piel",TCPG,Género de punto 
+TCP,"Textil, confección y piel",TCPH,Hilatura 
+TCP,"Textil, confección y piel",TCPJ,Telas no tejidas 
+TCP,"Textil, confección y piel",TCPL,Tejeduría de calada 
+TCP,"Textil, confección y piel",TCPM,Marroquinería y guantería 
+TCP,"Textil, confección y piel",TCPN,Ennoblecimiento de materiales textiles y pieles 
+TCP,"Textil, confección y piel",TCPP,Producción de hilos y tejidos 
+TCP,"Textil, confección y piel",TCPT,Curtidos 
+TCP,"Textil, confección y piel",TCPX,"Especialidades sin área definida (industria textil, piel y cuero) "
+TMV,Transporte y mantenimiento de vehículos,TMVA,Transporte aéreo 
+TMV,Transporte y mantenimiento de vehículos,TMVB,Ferrocarril y cable 
+TMV,Transporte y mantenimiento de vehículos,TMVC,Transporte por carretera 
+TMV,Transporte y mantenimiento de vehículos,TMVD,Reparación de vehículos de dos o tres ruedas 
+TMV,Transporte y mantenimiento de vehículos,TMVE,Reparación de sistemas electromecánicos de vehículos 
+TMV,Transporte y mantenimiento de vehículos,TMVF,Reparación de vehículos ferroviarios de tracción 
+TMV,Transporte y mantenimiento de vehículos,TMVG,Electromecánica de vehículos 
+TMV,Transporte y mantenimiento de vehículos,TMVH,Reparación de carrocerías de vehículos 
+TMV,Transporte y mantenimiento de vehículos,TMVI,Conducción de vehículos por carretera 
+TMV,Transporte y mantenimiento de vehículos,TMVL,Carrocería de vehículos 
+TMV,Transporte y mantenimiento de vehículos,TMVM,Transporte marítimo 
+TMV,Transporte y mantenimiento de vehículos,TMVN,Reparación de motores náuticos 
+TMV,Transporte y mantenimiento de vehículos,TMVO,Aeronáutica 
+TMV,Transporte y mantenimiento de vehículos,TMVP,Reparación de vehículos especiales 
+TMV,Transporte y mantenimiento de vehículos,TMVR,Transporte por raíl y cable 
+TMV,Transporte y mantenimiento de vehículos,TMVT,Automoción 
+TMV,Transporte y mantenimiento de vehículos,TMVU,Naútica 
+TMV,Transporte y mantenimiento de vehículos,TMVV,Reparación de motores de aviación 
+TMV,Transporte y mantenimiento de vehículos,TMVW,Especialidades sin área definida (automoción) 
+TMV,Transporte y mantenimiento de vehículos,TMVX,Especialidades sin área definida (transporte y comunicaciones) 
+TMV,Transporte y mantenimiento de vehículos,TMVY,Área para centros especializados 
+TMV,Transporte y mantenimiento de vehículos,TMVZ,Área para centros especializados 
+VIC,Vidrio y cerámica,VICB,Fabricación de baldosas y revestimientos cerámicos 
+VIC,Vidrio y cerámica,VICC,Cerámica 
+VIC,Vidrio y cerámica,VICF,Fabricación cerámica 
+VIC,Vidrio y cerámica,VICI,Vidrio industrial 
+VIC,Vidrio y cerámica,VICM,Materiales de construcción 
+VIC,Vidrio y cerámica,VICV,Vidrio 
+ZZZ,Competencias profesionales no clasificadas,ZZZZ,Competencias profesionales no clasificadas
